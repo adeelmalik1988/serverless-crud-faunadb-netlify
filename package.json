@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.1.10",
     "chalk": "^4.1.0",
     "dotenv": "^8.2.0",
+    "encoding": "^0.1.13",
     "faunadb": "^4.0.0",
     "http-proxy-middleware": "^1.0.6",
     "react": "^17.0.1",
